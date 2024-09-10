@@ -8,3 +8,6 @@
 [submodule "handwriter"]
 	path = handwriter
 	url = https://github.com/csafe-isu/handwriter
+[submodule "handwriterApp"]
+	path = handwriterApp
+	url = https://github.com/csafe-isu/handwriterapp
