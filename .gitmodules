@@ -11,3 +11,6 @@
 [submodule "handwriterApp"]
 	path = handwriterApp
 	url = https://github.com/csafe-isu/handwriterapp
+[submodule "handwriterRF"]
+	path = handwriterRF
+	url = https://github.com/csafe-isu/handwriterrf
