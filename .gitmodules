@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "cmcR"]
-	path = cmcR
-	url = https://github.com/csafe-isu/cmcr
 [submodule "handwriter"]
 	path = handwriter
 	url = https://github.com/csafe-isu/handwriter
